@@ -1,4 +1,4 @@
-# Unit 5 – Matplotlib Homework, Pymaceuticals
+Pymaceuticals
 
 ## **Objective:**
 The objective of this project is to analyze data on mice treated with a variety of drug regimes to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare in treating squamous cell carcinoma, a commonly occurring form of skin cancer. 
@@ -13,7 +13,7 @@ Using Matplotlib, the following graphs were created:
 1. Python -  Matplotlib, Pandas, Numpy
 
 ## **Screenshots:**
-![graph1.png](/Tumor Response to Treatment.png)
-![graph2.png](/Metastatic Response to Treatment.png)
-![graph3.png](/Survival Rates During Treatment.png)
-![graph4.png](/Tumor Volume Change During Treatment.png)
+![graph1.png](images/Tumor Response to Treatment.png)
+![graph2.png](images/Metastatic Response to Treatment.png)
+![graph3.png](images/Survival Rates During Treatment.png)
+![graph4.png](images/Tumor Volume Change During Treatment.png)
