@@ -13,7 +13,7 @@ Using Matplotlib, the following graphs were created:
 1. Python -  Matplotlib, Pandas, Numpy
 
 ## **Screenshots:**
-![graph1.png](./Tumor Response to Treatment.png)
-![graph2.png](./Metastatic Response to Treatment.png)
-![graph3.png](./Survival Rates During Treatment.png)
-![graph4.png](./Tumor Volume Change During Treatment.png)
+![graph1.png](../Tumor Response to Treatment.png)
+![graph2.png](../Metastatic Response to Treatment.png)
+![graph3.png](../Survival Rates During Treatment.png)
+![graph4.png](../Tumor Volume Change During Treatment.png)
