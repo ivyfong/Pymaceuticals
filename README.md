@@ -10,7 +10,7 @@ Using Matplotlib, the following graphs were created:
 * Bar graph: Treatment vs. total % tumor volume change.
 
 ## **Tools:**
-1. Python -  Matplotlib, Pandas, and Numpy
+1. Python -  Matplotlib, Pandas, Numpy
 
 ## **Screenshots (Graphs):**
 ![graph1.png](images/graph1_tumor_volume.png)
